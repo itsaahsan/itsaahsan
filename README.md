@@ -1,4 +1,4 @@
-### ~ Hello there! I'm Amimul Ahsan ~
+Hi there, I'm Amimul Ahsan 👋
 
 I'm a **self-taught Software Engineer & Machine Learning Specialist** from Dhaka, Bangladesh 🇧🇩. I love building things and solving problems with code. Completed **2,000+ hours** of intensive training from **Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)** with **9 professional certifications**. Currently seeking opportunities at top tech companies where I can contribute and grow! 
 
