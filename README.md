@@ -1,6 +1,6 @@
 # Hi there, I'm Amimul Ahsan 👋
 
-I'm a **self-taught Software Engineer & Machine Learning Specialist** from Dhaka, Bangladesh 🇧🇩. I love building things and solving problems with code. Completed **2,000+ hours** of intensive training from **Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)** with **9 professional certifications**. Currently seeking opportunities at top tech companies where I can contribute and grow! 
+I'm a **self-taught Software Engineer & Machine Learning Specialist** from Dhaka, Bangladesh 🇧🇩. I love building things and solving problems with code. Completed **2,000+ hours** of intensive training from **Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)**. Currently seeking opportunities at top tech companies where I can contribute and grow! 
 
 ---
 
@@ -45,28 +45,8 @@ I've spent the last 18 months learning and building production-ready application
 - **Harvard CS50 series** (CS50x, CS50 AI, CS50 Python) - complete!
 - **Codecademy Career Paths** - Full-Stack Engineer & Computer Science (500+ hours)!
 
----
 
-### 🎓 Certifications (9 Total)
-
-**AI & Machine Learning:**
-- Machine Learning Specialization - DeepLearning.AI (Andrew Ng)
-- Deep Learning Specialization - DeepLearning.AI (Andrew Ng)
-- TensorFlow Developer Professional Certificate - DeepLearning.AI
-- Google Advanced Data Analytics Professional Certificate
-
-**Full-Stack Development:**
-- Meta Full Stack Developer Specialization
-- Meta React Native Specialization
-
-**CS Fundamentals & Security:**
-- CS50x - Harvard University
-- CS50 AI - Harvard University  
-- Google Cybersecurity Professional Certificate
-
----
-
-I'm available via 📫 [email](mailto:your.email@example.com) or 💼 [LinkedIn](YOUR_LINKEDIN_URL). Feel free to reach out if you'd like to discuss tech, collaborate on projects, or explore opportunities!
+I'm available via 📫 [email](itsaahsan@gmail.com) or 💼 [LinkedIn](YOUR_LINKEDIN_URL). Feel free to reach out if you'd like to discuss tech, collaborate on projects, or explore opportunities!
 
 **Portfolio:** [yourportfolio.dev](YOUR_PORTFOLIO_URL) | **LeetCode:** [Profile](YOUR_LEETCODE_URL)
 
