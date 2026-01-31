@@ -80,9 +80,6 @@ My passion? **Turning complex challenges into elegant code solutions.** Whether 
 
 ---
 
-
----
-
 ### 🌱 What I've Built
 
 - Machine Learning models with TensorFlow, PyTorch & Scikit-learn
@@ -95,11 +92,6 @@ My passion? **Turning complex challenges into elegant code solutions.** Whether 
 - Database design with PostgreSQL & MongoDB
 - Cloud deployment on AWS with Docker
 - Data Structures & Algorithms practice (500+ LeetCode problems)
-
----
-
-
----
 
 ---
 
