@@ -2,17 +2,9 @@
 
 **Software Engineer & Machine Learning Specialist** | Dhaka, Bangladesh 🇧🇩
 
-I'm a results-driven engineer specializing in building **production-grade AI/ML systems** and **scalable full-stack applications**. Through **2,000+ hours of intensive, structured training** from **Harvard CS50, Google, Meta, and DeepLearning.AI (Andrew Ng)**, I've developed deep expertise in **machine learning**, **deep neural networks** (CNNs, RNNs, LSTMs, Transformers), and **modern web technologies** (React, Node.js, Django, AWS).
+I'm a results-driven engineer specializing in building **production-grade AI/ML systems** and **scalable full-stack applications**. Through **2,000+ hours of intensive, structured training** from **Harvard CS50, Google, Meta, DeepLearning.AI (Andrew Ng), and Codecademy**, I've developed deep expertise in **machine learning**, **deep neural networks** (CNNs, RNNs, LSTMs, Transformers), and **modern web technologies** (React, Node.js, Django, AWS).
 
 I thrive on solving complex problems through code—from training **computer vision models with 94% accuracy** to architecting **RESTful APIs** that handle real-time data at scale. My journey has been defined by relentless learning, hands-on building, and a commitment to writing clean, production-ready code that delivers measurable business impact.
-
-**What sets me apart:**
-- 🎓 **9 Professional Certifications** from Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)
-- 💻 **7+ Production Projects** spanning Computer Vision, NLP, Full-Stack Web & Mobile Apps
-- 🧠 **500+ LeetCode Problems** solved - strong foundation in Data Structures & Algorithms
-- 🚀 **End-to-end ML Pipeline Experience** - from data preprocessing to cloud deployment on AWS
-- ⚡ **Self-directed learner** who shipped real projects while mastering complex CS fundamentals
-- 🔧 **Full-stack proficiency** across Python, JavaScript/TypeScript, React, Node.js, TensorFlow & PyTorch
 
 I'm passionate about leveraging AI/ML to build products that make a real difference. Whether it's optimizing model inference time, designing scalable microservices, or implementing state-of-the-art algorithms, I bring both technical depth and practical execution to every project.
 
@@ -89,32 +81,6 @@ I'm passionate about leveraging AI/ML to build products that make a real differe
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
-
-### 🎓 Education & Certifications
-
-**9 Professional Certifications:**
-
-**AI & Machine Learning (4):**
-- 🏆 Machine Learning Specialization - DeepLearning.AI (Andrew Ng) | Jan 2026
-- 🏆 Deep Learning Specialization - DeepLearning.AI (Andrew Ng) | Jan 2026
-- 🏆 TensorFlow Developer Professional Certificate - DeepLearning.AI | Jan 2026
-- 🏆 Google Advanced Data Analytics Professional Certificate | Jan 2026
-
-**Full-Stack Development (2):**
-- 🏆 Meta Full Stack Developer Specialization | Jan 2026
-- 🏆 Meta React Native Specialization | Jan 2026
-
-**CS Fundamentals & Security (3):**
-- 🏆 CS50x: Introduction to Computer Science - Harvard University | 2025
-- 🏆 CS50 AI: Introduction to Artificial Intelligence - Harvard University | 2025
-- 🏆 Google Cybersecurity Professional Certificate | Dec 2025
-
-**Additional Training:**
-- ✅ CS50 Python - Harvard University | 2025
-- ✅ Full-Stack Engineer Career Path - Codecademy (300+ hours) | 2024
-- ✅ Computer Science Career Path - Codecademy (200+ hours) | 2024
-
-**Total: 2,000+ hours of structured learning | 500+ LeetCode problems solved**
 
 ---
 
