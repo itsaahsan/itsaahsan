@@ -2,16 +2,21 @@
 
 **Software Engineer & Machine Learning Specialist** | Dhaka, Bangladesh 🇧🇩
 
-I'm a results-driven engineer specializing in building production-grade AI/ML systems and scalable full-stack applications. Through **2,000+ hours of intensive, structured training** from **Harvard CS50, Google, Meta, and DeepLearning.AI (Andrew Ng)**, I've developed deep expertise in machine learning, deep neural networks, and modern web technologies.
+I'm a results-driven engineer specializing in building **production-grade AI/ML systems** and **scalable full-stack applications**. Through **2,000+ hours of intensive, structured training** from **Harvard CS50, Google, Meta, and DeepLearning.AI (Andrew Ng)**, I've developed deep expertise in **machine learning**, **deep neural networks** (CNNs, RNNs, LSTMs, Transformers), and **modern web technologies** (React, Node.js, Django, AWS).
+
+I thrive on solving complex problems through code—from training **computer vision models with 94% accuracy** to architecting **RESTful APIs** that handle real-time data at scale. My journey has been defined by relentless learning, hands-on building, and a commitment to writing clean, production-ready code that delivers measurable business impact.
 
 **What sets me apart:**
-- 🎓 **9 Professional Certifications** from Harvard, Google, Meta & DeepLearning.AI
-- 💻 **7+ Production Projects** spanning Computer Vision, NLP, and Full-Stack Development
-- 🧠 **500+ LeetCode Problems** solved with strong DS&A fundamentals
-- 🚀 **End-to-end ML Pipeline Experience** from model training to cloud deployment
-- ⚡ **Self-directed learner** who shipped real projects while mastering complex CS concepts
+- 🎓 **9 Professional Certifications** from Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)
+- 💻 **7+ Production Projects** spanning Computer Vision, NLP, Full-Stack Web & Mobile Apps
+- 🧠 **500+ LeetCode Problems** solved - strong foundation in Data Structures & Algorithms
+- 🚀 **End-to-end ML Pipeline Experience** - from data preprocessing to cloud deployment on AWS
+- ⚡ **Self-directed learner** who shipped real projects while mastering complex CS fundamentals
+- 🔧 **Full-stack proficiency** across Python, JavaScript/TypeScript, React, Node.js, TensorFlow & PyTorch
 
-Currently seeking **Software Engineer & ML Engineer** roles where I can solve challenging problems and deliver measurable impact at top tech companies.
+I'm passionate about leveraging AI/ML to build products that make a real difference. Whether it's optimizing model inference time, designing scalable microservices, or implementing state-of-the-art algorithms, I bring both technical depth and practical execution to every project.
+
+**Currently seeking Software Engineer & ML Engineer roles** where I can tackle challenging problems, collaborate with talented teams, and deliver high-impact solutions at top tech companies.
 
 ---
 
@@ -149,12 +154,20 @@ Currently seeking **Software Engineer & ML Engineer** roles where I can solve ch
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect
 
-**Email:** [itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)  
-**LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)  
-**Portfolio:** [View my work](YOUR_PORTFOLIO_URL)  
-**LeetCode:** [My profile](YOUR_LEETCODE_URL)
+I'm actively seeking opportunities at top tech companies and always open to discussing innovative projects, collaborating on challenging problems, or exploring potential roles.
+
+**📧 Email:** [itsaahsan@gmail.com](mailto:itsaahsan@gmail.com) - *Available for interviews and technical discussions*  
+**💼 LinkedIn:** [Connect with me professionally](YOUR_LINKEDIN_URL) - *Let's network and collaborate*  
+**🌐 Portfolio:** [View my projects and case studies](YOUR_PORTFOLIO_URL) - *See my work in action*  
+**💻 LeetCode:** [Check my problem-solving stats](YOUR_LEETCODE_URL) - *500+ problems solved*
+
+**Response Time:** I typically respond within 24 hours. Feel free to reach out about:
+- 💡 Full-time Software Engineer / ML Engineer opportunities
+- 🤝 Technical collaborations and open-source contributions
+- 📚 Discussing AI/ML, system design, or web development
+- 🌍 Remote positions or relocation opportunities with visa sponsorship
 
 ---
 
