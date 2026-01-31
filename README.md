@@ -1,6 +1,6 @@
 # Hi there, I'm Amimul Ahsan 👋
 
-I'm a **self-taught Software Engineer & Machine Learning Specialist** from Dhaka, Bangladesh 🇧🇩. I love building things and solving problems with code. Completed **2,000+ hours** of intensive training from **Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)**. Currently seeking opportunities at top tech companies where I can contribute and grow! 
+I'm a **self-taught Software Engineer & Machine Learning Specialist** from Dhaka, Bangladesh 🇧🇩. I love building things and solving problems with code. Completed **2,000+ hours** of intensive training from **Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)** with **9 professional certifications**. Currently seeking opportunities at top tech companies where I can contribute and grow! 
 
 ---
 
@@ -30,7 +30,7 @@ I've spent the last 18 months learning and building production-ready application
 
 ---
 
-### 🌱 What I've learned and built 
+### 🌱 What I've learned and built ~
 
 - **Machine Learning & Deep Learning** using TensorFlow, PyTorch, and Scikit-learn!
 - **Neural Networks** including CNNs, RNNs, LSTMs, and Transformers (Andrew Ng's ML & DL Specializations)!
@@ -45,11 +45,54 @@ I've spent the last 18 months learning and building production-ready application
 - **Harvard CS50 series** (CS50x, CS50 AI, CS50 Python) - complete!
 - **Codecademy Career Paths** - Full-Stack Engineer & Computer Science (500+ hours)!
 
+---
 
-I'm available via 📫 [email](itsaahsan@gmail.com) or 💼 [LinkedIn](YOUR_LINKEDIN_URL). Feel free to reach out if you'd like to discuss tech, collaborate on projects, or explore opportunities!
+### 🎓 Certifications (9 Total)
+
+**AI & Machine Learning:**
+- 🏆 Machine Learning Specialization - DeepLearning.AI (Andrew Ng) | Jan 2026
+- 🏆 Deep Learning Specialization - DeepLearning.AI (Andrew Ng) | Jan 2026
+- 🏆 TensorFlow Developer Professional Certificate - DeepLearning.AI | Jan 2026
+- 🏆 Google Advanced Data Analytics Professional Certificate | Jan 2026
+
+**Full-Stack Development:**
+- 🏆 Meta Full Stack Developer Specialization | Jan 2026
+- 🏆 Meta React Native Specialization | Jan 2026
+
+**CS Fundamentals & Security:**
+- 🏆 CS50x: Introduction to Computer Science - Harvard University | 2025
+- 🏆 CS50 AI: Introduction to Artificial Intelligence - Harvard University | 2025
+- 🏆 Google Cybersecurity Professional Certificate | Dec 2025
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaahsan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+### 🚀 Currently Seeking
+
+- ✅ **Software Engineer** roles at top tech companies
+- ✅ **Machine Learning Engineer** positions
+- ✅ **Full-Stack Developer** opportunities
+- ✅ **Remote positions** worldwide
+- ✅ **Open to relocation** with visa sponsorship
+
+---
+
+I'm available via 📫 [email](mailto:itsaahsan@gmail.com) or 💼 [LinkedIn](YOUR_LINKEDIN_URL). Feel free to reach out if you'd like to discuss tech, collaborate on projects, or explore opportunities!
 
 **Portfolio:** [yourportfolio.dev](YOUR_PORTFOLIO_URL) | **LeetCode:** [Profile](YOUR_LEETCODE_URL)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsaahsan&color=blueviolet)
+
+⭐️ *"Code speaks louder than credentials. Let my projects prove it."*
