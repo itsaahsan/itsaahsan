@@ -1,68 +1,130 @@
 # Hi there, I'm Amimul Ahsan 👋
 
-I'm a **self-taught Software Engineer & Machine Learning Specialist** from Dhaka, Bangladesh 🇧🇩. I love building things and solving problems with code. Completed **2,000+ hours** of intensive training from **Harvard, Google, Meta & DeepLearning.AI (Andrew Ng)** with **9 professional certifications**. Currently seeking opportunities at top tech companies where I can contribute and grow! 
+**Software Engineer & Machine Learning Specialist** | Dhaka, Bangladesh 🇧🇩
+
+I'm a results-driven engineer specializing in building production-grade AI/ML systems and scalable full-stack applications. Through **2,000+ hours of intensive, structured training** from **Harvard CS50, Google, Meta, and DeepLearning.AI (Andrew Ng)**, I've developed deep expertise in machine learning, deep neural networks, and modern web technologies.
+
+**What sets me apart:**
+- 🎓 **9 Professional Certifications** from Harvard, Google, Meta & DeepLearning.AI
+- 💻 **7+ Production Projects** spanning Computer Vision, NLP, and Full-Stack Development
+- 🧠 **500+ LeetCode Problems** solved with strong DS&A fundamentals
+- 🚀 **End-to-end ML Pipeline Experience** from model training to cloud deployment
+- ⚡ **Self-directed learner** who shipped real projects while mastering complex CS concepts
+
+Currently seeking **Software Engineer & ML Engineer** roles where I can solve challenging problems and deliver measurable impact at top tech companies.
 
 ---
 
-### 🧑‍💻 My Tech Stack!
+### 🛠️ Tech Stack
 
-I've spent the last 18 months learning and building production-ready applications. I'm passionate about AI/ML and full-stack development, and I love bringing ideas to life through code.
-
-**Languages & Frameworks I've worked with:**
+**Languages:**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**AI/ML & Data Science:**
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Frontend:**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+
+**Backend:**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Databases:**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Cloud & DevOps:**
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Tools & Other:**
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
-### 🌱 What I've learned and built ~
+### 🎓 Education & Certifications
 
-- **Machine Learning & Deep Learning** using TensorFlow, PyTorch, and Scikit-learn!
-- **Neural Networks** including CNNs, RNNs, LSTMs, and Transformers (Andrew Ng's ML & DL Specializations)!
-- **Computer Vision** projects with image classification achieving 94% accuracy!
-- **NLP applications** including chatbots using BERT transformers!
-- **Full-stack web applications** with React, Next.js, Node.js, and Django!
-- **Mobile applications** with React Native (Meta certification)!
-- **RESTful APIs** and microservices architecture with FastAPI and Flask!
-- **Database systems** using PostgreSQL, MongoDB, and Redis!
-- **Cloud deployment** on AWS with Docker containerization!
-- **Data structures & algorithms** - solved 500+ LeetCode problems!
-- **Harvard CS50 series** (CS50x, CS50 AI, CS50 Python) - complete!
-- **Codecademy Career Paths** - Full-Stack Engineer & Computer Science (500+ hours)!
+**9 Professional Certifications:**
 
----
-
-### 🎓 Certifications (9 Total)
-
-**AI & Machine Learning:**
+**AI & Machine Learning (4):**
 - 🏆 Machine Learning Specialization - DeepLearning.AI (Andrew Ng) | Jan 2026
 - 🏆 Deep Learning Specialization - DeepLearning.AI (Andrew Ng) | Jan 2026
 - 🏆 TensorFlow Developer Professional Certificate - DeepLearning.AI | Jan 2026
 - 🏆 Google Advanced Data Analytics Professional Certificate | Jan 2026
 
-**Full-Stack Development:**
+**Full-Stack Development (2):**
 - 🏆 Meta Full Stack Developer Specialization | Jan 2026
 - 🏆 Meta React Native Specialization | Jan 2026
 
-**CS Fundamentals & Security:**
+**CS Fundamentals & Security (3):**
 - 🏆 CS50x: Introduction to Computer Science - Harvard University | 2025
 - 🏆 CS50 AI: Introduction to Artificial Intelligence - Harvard University | 2025
 - 🏆 Google Cybersecurity Professional Certificate | Dec 2025
+
+**Additional Training:**
+- ✅ CS50 Python - Harvard University | 2025
+- ✅ Full-Stack Engineer Career Path - Codecademy (300+ hours) | 2024
+- ✅ Computer Science Career Path - Codecademy (200+ hours) | 2024
+
+**Total: 2,000+ hours of structured learning | 500+ LeetCode problems solved**
+
+---
+
+### 🌱 What I've Built
+
+- Machine Learning models with TensorFlow, PyTorch & Scikit-learn
+- Deep Learning projects (CNNs, RNNs, LSTMs, Transformers)
+- Computer Vision: Image classification with 94% accuracy
+- NLP: Chatbots using BERT transformers
+- Full-stack web apps with React, Next.js, Node.js & Django
+- Mobile apps with React Native
+- RESTful APIs with FastAPI & Flask
+- Database design with PostgreSQL & MongoDB
+- Cloud deployment on AWS with Docker
+- Data Structures & Algorithms practice (500+ LeetCode problems)
 
 ---
 
@@ -77,22 +139,23 @@ I've spent the last 18 months learning and building production-ready application
 
 ---
 
-### 🚀 Currently Seeking
+### 🎯 Currently Seeking
 
-- ✅ **Software Engineer** roles at top tech companies
-- ✅ **Machine Learning Engineer** positions
-- ✅ **Full-Stack Developer** opportunities
-- ✅ **Remote positions** worldwide
-- ✅ **Open to relocation** with visa sponsorship
+✅ Software Engineer roles  
+✅ Machine Learning Engineer positions  
+✅ Full-Stack Developer opportunities  
+✅ Remote work worldwide  
+✅ Open to relocation with visa sponsorship
 
 ---
 
-I'm available via 📫 [email](mailto:itsaahsan@gmail.com) or 💼 [LinkedIn](YOUR_LINKEDIN_URL). Feel free to reach out if you'd like to discuss tech, collaborate on projects, or explore opportunities!
+### 📫 Contact
 
-**Portfolio:** [yourportfolio.dev](YOUR_PORTFOLIO_URL) | **LeetCode:** [Profile](YOUR_LEETCODE_URL)
+**Email:** [itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)  
+**LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)  
+**Portfolio:** [View my work](YOUR_PORTFOLIO_URL)  
+**LeetCode:** [My profile](YOUR_LEETCODE_URL)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsaahsan&color=blueviolet)
-
-⭐️ *"Code speaks louder than credentials. Let my projects prove it."*
