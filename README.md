@@ -2,13 +2,11 @@
 
 **Software Engineer & Machine Learning Specialist** | Dhaka, Bangladesh 🇧🇩
 
-I'm a results-driven engineer specializing in building **production-grade AI/ML systems** and **scalable full-stack applications**. Through **2,000+ hours of intensive, structured training** from **Harvard CS50, Google, Meta, DeepLearning.AI (Andrew Ng), and Codecademy**, I've developed deep expertise in **machine learning**, **deep neural networks** (CNNs, RNNs, LSTMs, Transformers), and **modern web technologies** (React, Node.js, Django, AWS).
+I'm a **results-driven engineer** who builds **production-grade AI/ML systems** and **scalable full-stack applications** that solve real problems. With **2,000+ hours of intensive training** from **Harvard CS50, DeepLearning.AI (Andrew Ng), Google, Meta, and Codecademy**, I've mastered everything from **deep neural networks** (CNNs, RNNs, LSTMs, Transformers) to **modern web technologies** (React, Node.js, Django, AWS).
 
-I thrive on solving complex problems through code—from training **computer vision models with 94% accuracy** to architecting **RESTful APIs** that handle real-time data at scale. My journey has been defined by relentless learning, hands-on building, and a commitment to writing clean, production-ready code that delivers measurable business impact.
+My passion? **Turning complex challenges into elegant code solutions.** Whether I'm training **computer vision models achieving 94% accuracy**, architecting **RESTful APIs** that scale to thousands of requests, or deploying **full-stack applications** on AWS—I deliver clean, production-ready code that creates **measurable business impact**. I don't just write code—I **solve problems, optimize systems, and build products that matter.** From reducing model inference time to designing scalable microservices to implementing cutting-edge ML algorithms, I bring both **deep technical expertise** and **practical execution** to every challenge.
 
-I'm passionate about leveraging AI/ML to build products that make a real difference. Whether it's optimizing model inference time, designing scalable microservices, or implementing state-of-the-art algorithms, I bring both technical depth and practical execution to every project.
-
-**Currently seeking Software Engineer & ML Engineer roles** where I can tackle challenging problems, collaborate with talented teams, and deliver high-impact solutions at top tech companies.
+**🎯 Currently seeking Software Engineer & ML Engineer roles** at top tech companies where I can tackle challenging problems, work with world-class teams, and build solutions that make a real impact. Let's create something amazing together!
 
 ---
 
@@ -82,6 +80,7 @@ I'm passionate about leveraging AI/ML to build products that make a real differe
 
 ---
 
+
 ---
 
 ### 🌱 What I've Built
@@ -99,14 +98,6 @@ I'm passionate about leveraging AI/ML to build products that make a real differe
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaahsan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
