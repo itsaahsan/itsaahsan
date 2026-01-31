@@ -104,12 +104,6 @@ I'm actively seeking opportunities at top tech companies and always open to disc
 **🌐 Portfolio:** [View my projects and case studies](YOUR_PORTFOLIO_URL) - *See my work in action*  
 **💻 LeetCode:** [Check my problem-solving stats](YOUR_LEETCODE_URL) - *500+ problems solved*
 
-**Response Time:** I typically respond within 24 hours. Feel free to reach out about:
-- 💡 Full-time Software Engineer / ML Engineer opportunities
-- 🤝 Technical collaborations and open-source contributions
-- 📚 Discussing AI/ML, system design, or web development
-- 🌍 Remote positions or relocation opportunities with visa sponsorship
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsaahsan&color=blueviolet)
