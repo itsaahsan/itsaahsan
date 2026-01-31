@@ -101,14 +101,6 @@ My passion? **Turning complex challenges into elegant code solutions.** Whether 
 
 ---
 
-### 🎯 Currently Seeking
-
-✅ Software Engineer roles  
-✅ Machine Learning Engineer positions  
-✅ Full-Stack Developer opportunities  
-✅ Remote work worldwide  
-✅ Open to relocation with visa sponsorship
-
 ---
 
 ### 📫 Let's Connect
