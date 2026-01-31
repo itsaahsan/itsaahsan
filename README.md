@@ -99,10 +99,8 @@ My passion? **Turning complex challenges into elegant code solutions.** Whether 
 
 I'm actively seeking opportunities at top tech companies and always open to discussing innovative projects, collaborating on challenging problems, or exploring potential roles.
 
-**📧 Email:** [itsaahsan@gmail.com](mailto:itsaahsan@gmail.com) - *Available for interviews and technical discussions*  
-**💼 LinkedIn:** [Connect with me professionally](YOUR_LINKEDIN_URL) - *Let's network and collaborate*  
-**🌐 Portfolio:** [View my projects and case studies](YOUR_PORTFOLIO_URL) - *See my work in action*  
-**💻 LeetCode:** [Check my problem-solving stats](YOUR_LEETCODE_URL) - *500+ problems solved*
+📧 itsaahsan@gmail.com  |  💼 linkedin.com/in/amimul-ahsan-b1429a33b  |  🌐 [YOUR_PORTFOLIO_URL]  |  💻 LeetCode (500+ solved)
+Available for interviews & technical discussions
 
 ---
 
