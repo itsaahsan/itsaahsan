@@ -151,6 +151,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 *Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
 
-*Available for interviews, technical discussions & collaborations* 🚀
+*Available for interviews, technical discussions & collaborations* 
 
 </div>
