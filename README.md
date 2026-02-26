@@ -14,7 +14,7 @@ Besides tech I'm also into **continuous learning**, solving algorithmic puzzles 
 
 ### 🧑‍💻 My Tech!
 
-I've spent 2,000+ hours training across AI/ML and full-stack development. Here's what I work with ~
+I've spent 2,000+ hours training across AI/ML and full-stack development. Here's what I work with 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -67,16 +67,8 @@ I've spent 2,000+ hours training across AI/ML and full-stack development. Here's
 
 > **13 Verified Certificates · 2,000+ Hours**
 
----
 
-### 📊 GitHub Stats 
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
