@@ -42,7 +42,6 @@ amimul = {
     "web_skills" : ["React", "Django",
                     "REST APIs", "PostgreSQL"],
     "mobile"     : ["React Native"],
-    "seeking"    : "Top Tech Roles 🎯",
     "available"  : True
 }
 ```
