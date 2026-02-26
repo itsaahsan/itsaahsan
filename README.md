@@ -93,7 +93,46 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 ---
 
 
+---
 
+## 🧠 What I Can Build
+
+<div align="center">
+<table width="100%">
+<tr>
+<th>⚡ AI / Machine Learning</th>
+<th>🌐 Full-Stack Development</th>
+</tr>
+<tr>
+<td width="50%">
+
+- Deep Neural Networks (CNNs, RNNs, LSTMs)
+- Transformer architectures
+- NLP & Text Classification
+- Computer Vision & Image Recognition
+- Reinforcement Learning
+- Recommender Systems
+- Large Language Models (LLMs)
+- End-to-end ML pipelines
+
+</td>
+<td width="50%">
+
+- React.js responsive frontends
+- Django REST API backends
+- PostgreSQL database design
+- JWT authentication systems
+- RESTful API integration
+- Mobile apps with React Native
+- Linux systems & automation
+- SIEM & cybersecurity tools
+
+</td>
+</tr>
+</table>
+</div>
+
+---
 ## 🌱 Currently
 
 ```
