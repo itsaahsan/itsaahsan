@@ -95,14 +95,14 @@ amimul = {
 
 ---
 
-## 🚀 What I Can Build
+## 💡 What I Can Build
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-### ⚡ AI / Machine Learning
+### 🧠 AI / Machine Learning
 
 ```text
 ✦ Deep Neural Networks (CNNs, RNNs, LSTMs)
@@ -150,7 +150,7 @@ amimul = {
 | 📊 **Google** | Advanced Data Analytics · Cybersecurity | 2026 |
 | 💻 **Meta** | Front-End Developer · Back-End Developer · React Native | 2026 |
 
-> 🏅 **13 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
+ 🏅 **13 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
 
 </div>
 
@@ -189,6 +189,6 @@ amimul = {
 
 *Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
 
-*Available for interviews, technical discussions & collaborations* 🚀
+*Available for interviews, technical discussions & collaborations*
 
 </div>
