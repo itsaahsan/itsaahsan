@@ -1,209 +1,202 @@
 <div align="center">
 
-# Hi, I'm Amimul Ahsan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amimul%20Ahsan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
 
-### Full-Stack Developer & AI/ML Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=false&width=600&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Harvard+CS50+%7C+DeepLearning.AI+%7C+Google+%7C+Meta;2%2C000%2B+Hours+of+Rigorous+Training;Building+AI+Systems+%2B+Full-Stack+Apps;Open+To+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-**📍 Dhaka, Bangladesh** · **📧 itsaahsan@gmail.com**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amimul-ahsan-b1429a33b/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=itsaahsan&color=blueviolet&style=for-the-badge)](https://github.com/itsaahsan)
+[![Profile Views](https://komarev.com/ghpvc/?username=itsaahsan&color=6AD3F5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/itsaahsan)
 
 </div>
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎯 Open To Work — Software Engineer & AI/ML Engineer Roles
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-*Self-driven engineer with **2,000+ hours** of rigorous training from the world's best institutions*
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Developer and AI/ML Engineer** who has invested 2,000+ hours mastering both software engineering and artificial intelligence through structured, project-based programs from **Harvard University, DeepLearning.AI (Andrew Ng), Google, and Meta**.
-
-I bring a rare combination of skills — I can **build the AI model AND the full-stack application around it**, making me effective across the entire product development lifecycle.
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 amimul = {
-    "role"      : ["Full-Stack Developer", "AI/ML Engineer", "Software Engineer"],
-    "location"  : "Dhaka, Bangladesh 🇧🇩",
-    "training"  : "2,000+ hours | Harvard · DeepLearning.AI · Google · Meta",
-    "seeking"   : "Software Engineer & AI/ML Engineer roles",
-    "languages" : ["Python", "JavaScript", "SQL", "R", "C", "C#"],
-    "superpower": "Building AI systems + the full-stack apps around them"
+    "name"       : "Amimul Ahsan",
+    "role"       : ["AI/ML Engineer",
+                    "Full-Stack Developer",
+                    "Software Engineer"],
+    "location"   : "Dhaka, Bangladesh 🇧🇩",
+    "training"   : "2,000+ hours",
+    "institutes" : ["Harvard University",
+                    "DeepLearning.AI (Andrew Ng)",
+                    "Google",
+                    "Meta"],
+    "ai_skills"  : ["CNNs", "RNNs", "LSTMs",
+                    "Transformers", "NLP",
+                    "Computer Vision", "LLMs"],
+    "web_skills" : ["React", "Django",
+                    "REST APIs", "PostgreSQL"],
+    "mobile"     : ["React Native"],
+    "seeking"    : "Top Tech Roles 🎯",
+    "available"  : True
 }
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
-### AI / ML & Data Science
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### 🤖 AI / ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 What I Can Build
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🤖 AI / Machine Learning
-- Deep Neural Networks (CNNs, RNNs, LSTMs)
-- Transformer architectures
-- NLP & Text Classification
-- Computer Vision & Image Recognition
-- Reinforcement Learning
-- Recommender Systems
-- Generative AI & LLMs
-- End-to-end ML pipelines
+| 🤖 AI / Machine Learning | 🌐 Full-Stack Development |
+|---|---|
+| Deep Neural Networks (CNNs, RNNs, LSTMs) | React.js responsive frontends |
+| Transformer architectures | Django REST API backends |
+| NLP & Text Classification | PostgreSQL database design |
+| Computer Vision & Image Recognition | JWT authentication systems |
+| Reinforcement Learning | RESTful API integration |
+| Recommender Systems | Mobile apps with React Native |
+| Large Language Models (LLMs) | Linux systems & automation |
+| End-to-end ML pipelines | SIEM & cybersecurity tools |
 
-</td>
-<td width="50%">
+</div>
 
-### 🌐 Full-Stack Development
-- React.js responsive frontends
-- Django REST API backends
-- PostgreSQL database design
-- JWT authentication systems
-- RESTful API integration
-- Mobile apps with React Native
-- SIEM & cybersecurity tools
-- Linux systems & automation
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</td>
-</tr>
-</table>
+## 🏆 Education & Certifications
 
----
+<div align="center">
 
-## 📚 Education & Certifications
-
-<details>
-<summary><b>🎓 Harvard University — 5 Certificates (click to expand)</b></summary>
-
+### 🎓 Harvard University — 5 Certificates
 | Program | Details | Year |
 |---|---|---|
-| CS50x | Introduction to Computer Science — C, Python, SQL, JS | 2025 |
-| CS50P | Introduction to Programming with Python | 2025 |
-| CS50AI | Introduction to AI with Python — 12 projects | 2025 |
-| CS50 SQL | Introduction to Databases with SQL | 2025 |
-| CS50R | Introduction to Programming with R | 2025 |
+| **CS50x** | Introduction to Computer Science — C, Python, SQL, JS | 2025 |
+| **CS50P** | Introduction to Programming with Python | 2025 |
+| **CS50AI** | Introduction to AI with Python — 12 Projects | 2025 |
+| **CS50 SQL** | Introduction to Databases with SQL | 2025 |
+| **CS50R** | Introduction to Programming with R | 2025 |
 
-</details>
-
-<details>
-<summary><b>🧠 DeepLearning.AI / Stanford — 4 Certificates (click to expand)</b></summary>
-
+### 🧠 DeepLearning.AI / Stanford — 3 Certificates
 | Program | Details | Year |
 |---|---|---|
-| Machine Learning Specialization | Supervised, Unsupervised, Reinforcement Learning — Andrew Ng | Jan 2026 |
-| Deep Learning Specialization | CNN, RNN, LSTM, Transformers, Hyperparameter Tuning | Jan 2026 |
-| TensorFlow Developer Certificate | TensorFlow, CNNs, NLP, Time Series | Jan 2026 |
-| Generative AI with LLMs | LLMs, Fine-tuning, Prompt Engineering, RLHF | Feb 2026 |
+| **Machine Learning Specialization** | Supervised, Unsupervised, Reinforcement Learning — Andrew Ng | Jan 2026 |
+| **Deep Learning Specialization** | CNN, RNN, LSTM, Transformers, Hyperparameter Tuning | Jan 2026 |
+| **TensorFlow Developer Certificate** | TensorFlow, CNNs, NLP, Time Series & Prediction | Jan 2026 |
 
-</details>
-
-<details>
-<summary><b>📊 Google — 2 Certificates (click to expand)</b></summary>
-
+### 📊 Google — 2 Certificates
 | Program | Details | Year |
 |---|---|---|
-| Advanced Data Analytics | Python, Statistics, ML, Regression, Data Science | Jan 2026 |
-| Cybersecurity Certificate | Linux, SQL, SIEM, IDS, Threat Detection, Python | Dec 2025 |
+| **Advanced Data Analytics** | Python, Statistics, ML, Regression, Data Science | Jan 2026 |
+| **Cybersecurity Certificate** | Linux, SQL, SIEM, IDS, Threat Detection, Python | Dec 2025 |
 
-</details>
-
-<details>
-<summary><b>💻 Meta — 4 Certificates (click to expand)</b></summary>
-
+### 💻 Meta — 4 Certificates
 | Program | Details | Year |
 |---|---|---|
-| Front-End Developer | HTML, CSS, JavaScript, React, UX/UI, Capstone | Feb 2026 |
-| Back-End Developer | Python, Django, REST APIs, Databases, Capstone | Feb 2026 |
-| Full Stack Developer | Complete Front-End + Back-End Specialization | Jan 2026 |
-| React Native | Mobile Development, React Native, Capstone App | Jan 2026 |
+| **Front-End Developer** | HTML, CSS, JavaScript, React, UX/UI, Capstone | Feb 2026 |
+| **Back-End Developer** | Python, Django, REST APIs, Databases, Capstone | Feb 2026 |
+| **Full Stack Developer** | Complete Front-End + Back-End Specialization | Jan 2026 |
+| **React Native** | Mobile Development, React Native, Capstone App | Jan 2026 |
 
-</details>
+</div>
 
-<details>
-<summary><b>🪟 Microsoft — 1 Certificate (click to expand)</b></summary>
+<div align="center">
 
-| Program | Details | Year |
-|---|---|---|
-| Foundational C# with Microsoft | C# fundamentals — Microsoft Developer Division | Jun 2025 |
+### 🏅 Total: 14 Verified Certificates · 2,000+ Hours
+### Harvard · DeepLearning.AI · Google · Meta
 
-</details>
+</div>
 
-> 🏆 **16 verified certificates · 2,000+ hours · Harvard · DeepLearning.AI · Google · Meta · Microsoft**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=tokyonight&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaahsan&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌱 Currently
 
-- 🔨 Building full-stack & AI/ML portfolio projects
-- 📖 Practicing Data Structures & Algorithms on LeetCode
-- 🎯 Actively seeking **Software Engineer & AI/ML Engineer** roles
-- 🤝 Open to collaborations, freelance work & opportunities
+```
+🔨  Building full-stack & AI/ML portfolio projects
+📖  Practicing Data Structures & Algorithms on LeetCode  
+🎯  Actively seeking Software Engineer & AI/ML Engineer roles
+🤝  Open to collaborations, freelance work & opportunities
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 ## 📫 Let's Connect & Build Something Great
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amimul%20Ahsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amimul-ahsan-b1429a33b/)
-[![Email](https://img.shields.io/badge/Email-itsaahsan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-itsaahsan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
 
-*Open to Software Engineer, AI/ML Engineer & Full-Stack Developer roles*
-*Available for interviews, technical discussions & collaborations*
+*Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
+
+*Available for interviews, technical discussions & collaborations* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
