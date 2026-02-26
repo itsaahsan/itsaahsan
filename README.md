@@ -123,18 +123,16 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🏆 Certifications & Training
 
-<div align="center">
 
 | Institution | Programs | Year |
 |---|---|---|
 | 🎓 **Harvard CS50** | CS50x · CS50P · CS50AI · CS50 SQL · CS50R | 2025 |
-| 🧠 **DeepLearning.AI** | Machine Learning · Deep Learning · TensorFlow Developer | 2026 |
+| ⚡ **DeepLearning.AI** | Machine Learning · Deep Learning · TensorFlow Developer | 2026 |
 | 📊 **Google** | Advanced Data Analytics · Cybersecurity | 2026 |
 | 💻 **Meta** | Front-End · Back-End · React Native | 2026 |
 
 > 🏅 **13 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
 
-</div>
 
 ---
 
