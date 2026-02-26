@@ -29,7 +29,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,7 +72,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
 
 ---
 
