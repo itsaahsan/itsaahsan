@@ -20,9 +20,32 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer and Full-Stack Developer** who has invested 2,000+ hours mastering both software engineering and artificial intelligence through structured, project-based programs from **Harvard University, DeepLearning.AI (Andrew Ng), Google, and Meta**.
+I'm an AI/ML Engineer and Full-Stack Developer who has invested 2,000+ hours mastering both software engineering and artificial intelligence through structured, project-based programs from Harvard University, DeepLearning.AI (Andrew Ng), Google, and Meta.
 
-I bring a rare combination of skills — I can **build the AI model AND the full-stack application around it**, making me effective across the entire product development lifecycle.
+I bring a rare combination of skills — I can build the AI model AND the full-stack application around it, making me effective across the entire product development lifecycle.
+
+```python
+amimul = {
+    "name"       : "Amimul Ahsan",
+    "role"       : ["AI/ML Engineer",
+                    "Full-Stack Developer",
+                    "Software Engineer"],
+    "location"   : "Dhaka, Bangladesh 🇧🇩",
+    "training"   : "2,000+ hours",
+    "institutes" : ["Harvard University (CS50)",
+                    "DeepLearning.AI (Andrew Ng)",
+                    "Google",
+                    "Meta"],
+    "ai_skills"  : ["CNNs", "RNNs", "LSTMs",
+                    "Transformers", "NLP",
+                    "Computer Vision", "LLMs"],
+    "web_skills" : ["React", "Django",
+                    "REST APIs", "PostgreSQL"],
+    "mobile"     : ["React Native"],
+    "seeking"    : "Top Tech Roles 🎯",
+    "available"  : True
+}
+```
 
 ---
 
@@ -72,7 +95,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ---
 
-## 🧠 What I Can Build
+## 🚀 What I Can Build
 
 <table>
 <tr>
@@ -118,16 +141,31 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🏆 Certifications & Training
 
+<div align="center">
 
 | Institution | Programs | Year |
 |---|---|---|
 | 🎓 **Harvard CS50** | CS50x · CS50P · CS50AI · CS50 SQL · CS50R | 2025 |
 | 🧠 **DeepLearning.AI** | Machine Learning · Deep Learning · TensorFlow Developer | 2026 |
 | 📊 **Google** | Advanced Data Analytics · Cybersecurity | 2026 |
-| 💻 **Meta** | Front-End · Back-End · Full Stack · React Native | 2026 |
+| 💻 **Meta** | Front-End Developer · Back-End Developer · React Native | 2026 |
 
-🏅 **14 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
+> 🏅 **13 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=tokyonight&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaahsan&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</div>
 
 ---
 
@@ -142,4 +180,15 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ---
 
+<div align="center">
 
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amimul%20Ahsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsaahsan/)
+[![Email](https://img.shields.io/badge/Gmail-itsaahsan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
+
+*Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
+
+*Available for interviews, technical discussions & collaborations* 🚀
+
+</div>
