@@ -118,7 +118,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🏆 Certifications & Training
 
-<div align="center">
 
 | Institution | Programs | Year |
 |---|---|---|
@@ -127,9 +126,8 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 | 📊 **Google** | Advanced Data Analytics · Cybersecurity | 2026 |
 | 💻 **Meta** | Front-End · Back-End · Full Stack · React Native | 2026 |
 
-> 🏅 **14 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
+🏅 **14 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
 
-</div>
 
 ---
 
