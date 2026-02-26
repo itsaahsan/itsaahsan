@@ -4,11 +4,11 @@
 
 </div>
 
-I'm a self-taught engineer from **Dhaka, Bangladesh** 🇧🇩 who decided to skip the traditional path and build my own curriculum from the world's best institutions instead — **Harvard, DeepLearning.AI (Andrew Ng), Google, and Meta** — 2,000+ hours deep.
+I'm a self-taught engineer from Dhaka, Bangladesh 🇧🇩 who decided to skip the traditional path and build my own curriculum from the world's best institutions instead — Harvard, DeepLearning.AI (Andrew Ng), Google, and Meta — 2,000+ hours deep.
 
-I work across the full stack — I can train a deep learning model in the morning and build the React frontend around it in the afternoon. My goal? To land a **Software Engineer or AI/ML Engineer** role at a top tech company where I can solve hard problems and build things that actually matter.
+I work across the full stack — I can train a deep learning model in the morning and build the React frontend around it in the afternoon.
 
-Besides tech I'm also into **continuous learning**, solving algorithmic puzzles on LeetCode and occasionally going down rabbit holes on how neural networks actually work at a mathematical level. If you're reading this in 2026, I'm probably still figuring things out — but getting better every single day. 
+Besides tech I'm also into continuous learning, solving algorithmic puzzles on LeetCode and occasionally going down rabbit holes on how neural networks actually work at a mathematical level. If you're reading this in 2026, I'm probably still figuring things out — but getting better every single day. 
 
 ---
 
