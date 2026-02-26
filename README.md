@@ -80,7 +80,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 <table>
 <tr>
 
-<td valign="top" width="90%">
+<td valign="top" width="30%">
 
 ### ⚡ AI / Machine Learning
 ```text
@@ -96,7 +96,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 </td>
 
-<td valign="top" width="90%">
+<td valign="top" width="30%">
 
 ### 🌐 Full-Stack Development
 ```text
@@ -121,6 +121,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🏆 Certifications & Training
 
+</td>
 
 | Institution | Programs | Year |
 |---|---|---|
