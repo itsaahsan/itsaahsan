@@ -65,7 +65,7 @@ I've spent 2,000+ hours training across AI/ML and full-stack development. Here's
 | 📊 Google | Advanced Data Analytics · Cybersecurity | 2026 |
 | 💻 Meta | Front-End · Back-End · React Native | 2026 |
 
-> **13 Verified Certificates · 2,000+ Hours**
+> **12 Verified Certificates · 2,000+ Hours**
 
 
 
