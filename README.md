@@ -24,28 +24,6 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who has invested 2,000+ hours
 
 I bring a rare combination of skills — I can **build the AI model AND the full-stack application around it**, making me effective across the entire product development lifecycle.
 
-```python
-amimul = {
-    "name"       : "Amimul Ahsan",
-    "role"       : ["AI/ML Engineer",
-                    "Full-Stack Developer",
-                    "Software Engineer"],
-    "location"   : "Dhaka, Bangladesh 🇧🇩",
-    "training"   : "2,000+ hours",
-    "institutes" : ["Harvard University",
-                    "DeepLearning.AI (Andrew Ng)",
-                    "Google",
-                    "Meta"],
-    "ai_skills"  : ["CNNs", "RNNs", "LSTMs",
-                    "Transformers", "NLP",
-                    "Computer Vision", "LLMs"],
-    "web_skills" : ["React", "Django",
-                    "REST APIs", "PostgreSQL"],
-    "mobile"     : ["React Native"],
-    "seeking"    : "Top Tech Roles 🎯",
-    "available"  : True
-}
-```
 
 ---
 
@@ -118,63 +96,7 @@ amimul = {
 
 ---
 
-## 🏆 Education & Certifications
 
-<div align="center">
-
-### 🎓 Harvard University — 5 Certificates
-
-| Program | Details | Year |
-|---|---|---|
-| **CS50x** | Introduction to Computer Science — C, Python, SQL, JS | 2025 |
-| **CS50P** | Introduction to Programming with Python | 2025 |
-| **CS50AI** | Introduction to AI with Python — 12 Projects | 2025 |
-| **CS50 SQL** | Introduction to Databases with SQL | 2025 |
-| **CS50R** | Introduction to Programming with R | 2025 |
-
-### 🧠 DeepLearning.AI / Stanford — 3 Certificates
-
-| Program | Details | Year |
-|---|---|---|
-| **Machine Learning Specialization** | Supervised, Unsupervised, Reinforcement Learning — Andrew Ng | Jan 2026 |
-| **Deep Learning Specialization** | CNN, RNN, LSTM, Transformers, Hyperparameter Tuning | Jan 2026 |
-| **TensorFlow Developer Certificate** | TensorFlow, CNNs, NLP, Time Series & Prediction | Jan 2026 |
-
-### 📊 Google — 2 Certificates
-
-| Program | Details | Year |
-|---|---|---|
-| **Advanced Data Analytics** | Python, Statistics, ML, Regression, Data Science | Jan 2026 |
-| **Cybersecurity Certificate** | Linux, SQL, SIEM, IDS, Threat Detection, Python | Dec 2025 |
-
-### 💻 Meta — 4 Certificates
-
-| Program | Details | Year |
-|---|---|---|
-| **Front-End Developer** | HTML, CSS, JavaScript, React, UX/UI, Capstone | Feb 2026 |
-| **Back-End Developer** | Python, Django, REST APIs, Databases, Capstone | Feb 2026 |
-| **Full Stack Developer** | Complete Front-End + Back-End Specialization | Jan 2026 |
-| **React Native** | Mobile Development, React Native, Capstone App | Jan 2026 |
-
-### 🏅 14 Verified Certificates · 2,000+ Hours
-### Harvard · DeepLearning.AI · Google · Meta
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=tokyonight&hide_border=true"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaahsan&theme=tokyonight&hide_border=true&layout=compact"/>
-
-</div>
-
----
 
 ## 🌱 Currently
 
