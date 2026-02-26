@@ -72,16 +72,14 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
-
-
-
 
 ## 🧠 What I Can Build
 
+<div align="center">
 
-
+<table>
+<tr>
 
 <td valign="top" width="50%">
 
@@ -114,6 +112,12 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 ```
 
 </td>
+
+</tr>
+</table>
+
+</div>
+
 
 ---
 ## 🌱 Currently
