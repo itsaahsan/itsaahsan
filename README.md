@@ -57,10 +57,10 @@ I've spent 2,000+ hours training across AI/ML and full-stack development. Here's
 
 ---
 
-### 🏆 Certified by 
+### 🏆 Certified by
 
-| 🎓 Harvard CS50 | CS50x · CS50P · CS50AI · CS50 SQL · CS50R | 2025 |
 |---|---|---|
+| 🎓 Harvard CS50 | CS50x · CS50P · CS50AI · CS50 SQL · CS50R | 2025 |
 | 🧠 DeepLearning.AI | Machine Learning · Deep Learning · TensorFlow Developer | 2026 |
 | 📊 Google | Advanced Data Analytics · Cybersecurity | 2026 |
 | 💻 Meta | Front-End · Back-End · React Native | 2026 |
