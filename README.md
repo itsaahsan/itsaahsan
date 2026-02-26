@@ -142,15 +142,4 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ---
 
-<div align="center">
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amimul%20Ahsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsaahsan/)
-[![Email](https://img.shields.io/badge/Gmail-itsaahsan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
-
-*Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
-
-*Available for interviews, technical discussions & collaborations* 
-
-</div>
