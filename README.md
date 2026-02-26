@@ -76,7 +76,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🧠 What I Can Build
 
-<div align="center">
 
 <table>
 <tr>
@@ -116,7 +115,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 </tr>
 </table>
 
-</div>
 
 
 ---
@@ -131,7 +129,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 | 📊 **Google** | Advanced Data Analytics · Cybersecurity | 2026 |
 | 💻 **Meta** | Front-End · Back-End · React Native | 2026 |
 
-> 🏅 **13 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
+🏅 **13 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
 
 
 ---
