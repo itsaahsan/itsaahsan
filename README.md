@@ -1,25 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amimul%20Ahsan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=false&width=600&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Harvard+CS50+%7C+DeepLearning.AI+%7C+Google+%7C+Meta;2%2C000%2B+Hours+of+Rigorous+Training;Building+AI+Systems+%2B+Full-Stack+Apps;Open+To+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
+# Hi, I'm Amimul Ahsan 👋
+### AI/ML Engineer & Full-Stack Developer
+#### 📍 Dhaka, Bangladesh · 📧 itsaahsan@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amimul-ahsan-b1429a33b/)
 [![Email](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=itsaahsan&color=6AD3F5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/itsaahsan)
 
+---
+
+### 🎯 Open To Work — Software Engineer & AI/ML Engineer Roles
+*Self-driven engineer with **2,000+ hours** of rigorous training from the world's best institutions*
+
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 👨‍💻 About Me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+I'm an **AI/ML Engineer and Full-Stack Developer** who has invested 2,000+ hours mastering both software engineering and artificial intelligence through structured, project-based programs from **Harvard University, DeepLearning.AI (Andrew Ng), Google, and Meta**.
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I bring a rare combination of skills — I can **build the AI model AND the full-stack application around it**, making me effective across the entire product development lifecycle.
 
 ```python
 amimul = {
@@ -44,11 +47,9 @@ amimul = {
 }
 ```
 
-<br clear="right"/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -62,7 +63,7 @@ amimul = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / ML & Data Science
+### 🧠 AI / ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -96,13 +97,13 @@ amimul = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🚀 What I Can Build
+## 🧠 What I Can Build
 
 <div align="center">
 
-| 🤖 AI / Machine Learning | 🌐 Full-Stack Development |
+| 🧠 AI / Machine Learning | 🌐 Full-Stack Development |
 |---|---|
 | Deep Neural Networks (CNNs, RNNs, LSTMs) | React.js responsive frontends |
 | Transformer architectures | Django REST API backends |
@@ -115,13 +116,14 @@ amimul = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🏆 Education & Certifications
 
 <div align="center">
 
 ### 🎓 Harvard University — 5 Certificates
+
 | Program | Details | Year |
 |---|---|---|
 | **CS50x** | Introduction to Computer Science — C, Python, SQL, JS | 2025 |
@@ -131,6 +133,7 @@ amimul = {
 | **CS50R** | Introduction to Programming with R | 2025 |
 
 ### 🧠 DeepLearning.AI / Stanford — 3 Certificates
+
 | Program | Details | Year |
 |---|---|---|
 | **Machine Learning Specialization** | Supervised, Unsupervised, Reinforcement Learning — Andrew Ng | Jan 2026 |
@@ -138,12 +141,14 @@ amimul = {
 | **TensorFlow Developer Certificate** | TensorFlow, CNNs, NLP, Time Series & Prediction | Jan 2026 |
 
 ### 📊 Google — 2 Certificates
+
 | Program | Details | Year |
 |---|---|---|
 | **Advanced Data Analytics** | Python, Statistics, ML, Regression, Data Science | Jan 2026 |
 | **Cybersecurity Certificate** | Linux, SQL, SIEM, IDS, Threat Detection, Python | Dec 2025 |
 
 ### 💻 Meta — 4 Certificates
+
 | Program | Details | Year |
 |---|---|---|
 | **Front-End Developer** | HTML, CSS, JavaScript, React, UX/UI, Capstone | Feb 2026 |
@@ -151,16 +156,12 @@ amimul = {
 | **Full Stack Developer** | Complete Front-End + Back-End Specialization | Jan 2026 |
 | **React Native** | Mobile Development, React Native, Capstone App | Jan 2026 |
 
-</div>
-
-<div align="center">
-
-### 🏅 Total: 14 Verified Certificates · 2,000+ Hours
+### 🏅 14 Verified Certificates · 2,000+ Hours
 ### Harvard · DeepLearning.AI · Google · Meta
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 GitHub Stats
 
@@ -173,30 +174,27 @@ amimul = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🌱 Currently
 
 ```
 🔨  Building full-stack & AI/ML portfolio projects
-📖  Practicing Data Structures & Algorithms on LeetCode  
+📖  Practicing Data Structures & Algorithms on LeetCode
 🎯  Actively seeking Software Engineer & AI/ML Engineer roles
 🤝  Open to collaborations, freelance work & opportunities
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
 
-## 📫 Let's Connect & Build Something Great
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amimul%20Ahsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amimul-ahsan-b1429a33b/)
 [![Email](https://img.shields.io/badge/Gmail-itsaahsan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
 
 *Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
-
 *Available for interviews, technical discussions & collaborations* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
