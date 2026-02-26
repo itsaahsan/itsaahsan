@@ -24,11 +24,9 @@ I'm an **AI/ML Engineer and Full-Stack Developer** who has invested 2,000+ hours
 
 I bring a rare combination of skills — I can **build the AI model AND the full-stack application around it**, making me effective across the entire product development lifecycle.
 
-
 ---
 
 ## 🛠️ Tech Stack
-
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,13 +74,13 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🧠 What I Can Build
 
-
 <table>
 <tr>
 
-<td valign="top" width="30%">
+<td valign="top" width="50%">
 
 ### ⚡ AI / Machine Learning
+
 ```text
 ✦ Deep Neural Networks (CNNs, RNNs, LSTMs)
 ✦ Transformer architectures
@@ -96,9 +94,10 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 </td>
 
-<td valign="top" width="30%">
+<td valign="top" width="50%">
 
 ### 🌐 Full-Stack Development
+
 ```text
 ✦ React.js responsive frontends
 ✦ Django REST API backends
@@ -115,29 +114,28 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 </tr>
 </table>
 
-
-
 ---
 
 ## 🏆 Certifications & Training
 
-</td>
+<div align="center">
 
 | Institution | Programs | Year |
 |---|---|---|
 | 🎓 **Harvard CS50** | CS50x · CS50P · CS50AI · CS50 SQL · CS50R | 2025 |
-| ⚡ **DeepLearning.AI** | Machine Learning · Deep Learning · TensorFlow Developer | 2026 |
+| 🧠 **DeepLearning.AI** | Machine Learning · Deep Learning · TensorFlow Developer | 2026 |
 | 📊 **Google** | Advanced Data Analytics · Cybersecurity | 2026 |
-| 💻 **Meta** | Front-End · Back-End · React Native | 2026 |
+| 💻 **Meta** | Front-End · Back-End · Full Stack · React Native | 2026 |
 
-🏅 **13 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
+> 🏅 **14 Verified Certificates · 2,000+ Hours · Harvard · DeepLearning.AI · Google · Meta**
 
+</div>
 
 ---
 
 ## 🌱 Currently
 
-```
+```text
 🔨  Building full-stack & AI/ML portfolio projects
 📖  Practicing Data Structures & Algorithms on LeetCode
 🎯  Actively seeking Software Engineer & AI/ML Engineer roles
@@ -145,7 +143,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 ```
 
 ---
-
 
 <div align="center">
 
@@ -155,6 +152,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 [![Email](https://img.shields.io/badge/Gmail-itsaahsan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
 
 *Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
-*Available for interviews, technical discussions & collaborations*
+
+*Available for interviews, technical discussions & collaborations* 🚀
 
 </div>
