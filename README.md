@@ -4,7 +4,7 @@
 ### AI/ML Engineer & Full-Stack Developer
 #### 📍 Dhaka, Bangladesh · 📧 itsaahsan@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amimul-ahsan-b1429a33b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsaahsan/)
 [![Email](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=itsaahsan&color=6AD3F5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/itsaahsan)
@@ -40,7 +40,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 AI / ML & Data Science
+### ⚡ AI / ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -77,9 +77,8 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 🧠 What I Can Build
 
-<div align="center">
 
-| 🧠 AI / Machine Learning | 🌐 Full-Stack Development |
+| ⚡ AI / Machine Learning | 🌐 Full-Stack Development |
 |---|---|
 | Deep Neural Networks (CNNs, RNNs, LSTMs) | React.js responsive frontends |
 | Transformer architectures | Django REST API backends |
@@ -90,7 +89,6 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 | Large Language Models (LLMs) | Linux systems & automation |
 | End-to-end ML pipelines | SIEM & cybersecurity tools |
 
-</div>
 
 ---
 
@@ -111,7 +109,7 @@ I bring a rare combination of skills — I can **build the AI model AND the full
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amimul%20Ahsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amimul-ahsan-b1429a33b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amimul%20Ahsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsaahsan/)
 [![Email](https://img.shields.io/badge/Gmail-itsaahsan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsaahsan@gmail.com)
 
 *Open to **Software Engineer**, **AI/ML Engineer** & **Full-Stack Developer** roles*
