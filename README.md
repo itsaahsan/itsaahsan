@@ -58,21 +58,13 @@ Besides tech I'm into continuous learning, solving algorithmic puzzles, and occa
 * **Cybersecurity** — SIEM tools, IDS, threat detection, Linux hardening (Google cert)
 * Harvard's **CS50** series — CS50x, CS50P, CS50AI, CS50 SQL, CS50R
 
----
 
 
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![Amimul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
 📧 **[itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/itsaahsan/)** · 🌐 **[Portfolio](#)**
 
-> Always happy to discuss AI, collaborate on a project, or just talk tech!
+Always happy to discuss AI, collaborate on a project, or just talk tech!
