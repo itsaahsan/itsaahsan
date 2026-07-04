@@ -2,13 +2,13 @@
 
 # Hello there, I'm Amimul Ahsan! 👋
 
-### AI Engineer & Full-Stack Developer · Dhaka, Bangladesh 🇧🇩
+### Software Engineer & AI Engineer · Dhaka, Bangladesh 🇧🇩
 
 </div>
 
-I'm a self-taught engineer who decided to skip the traditional path and build my own curriculum from the world's best institutions — Harvard, DeepLearning.AI (Andrew Ng), Google, and Meta — **2,000+ hours deep**.
+I'm a self-taught engineer who decided to skip the traditional path and build my own curriculum from the world's best institutions — Harvard, DeepLearning.AI (Andrew Ng), Google, and Meta.
 
-I work across the full stack — I can design a RAG pipeline in the morning, train a PyTorch model in the afternoon, and wrap it in a FastAPI + React app by evening.
+I work across the full stack — I can design a RAG pipeline in the morning, build a LangGraph agent in the afternoon, and wrap it in a FastAPI + React app by evening.
 
 Besides tech I'm into continuous learning, solving algorithmic puzzles, and occasionally going down rabbit holes on how neural networks actually work at a mathematical level. If you're reading this in 2026, I'm probably still building — but getting better every single day.
 
@@ -24,9 +24,7 @@ Besides tech I'm into continuous learning, solving algorithmic puzzles, and occa
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
@@ -36,7 +34,6 @@ Besides tech I'm into continuous learning, solving algorithmic puzzles, and occa
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
@@ -44,27 +41,19 @@ Besides tech I'm into continuous learning, solving algorithmic puzzles, and occa
 
 ---
 
-### 🌱 What I've explored
+### 🌱 What I've built and explored
 
-* **RAG Pipelines & LLM Agents** — LangChain, Chroma, vector databases, prompt engineering
-* **Deep Learning** — CNNs, RNNs, LSTMs, Transformers with TensorFlow & PyTorch
-* **Computer Vision** — image classification, object detection, convolutional networks
-* **NLP** — text classification, sentiment analysis, fine-tuning language models
-* **Generative AI & LLMs** — RAG, agents, tool use, local models via Ollama
-* **Full-Stack Web Apps** — React + FastAPI/Node.js + PostgreSQL + JWT auth
-* **Mobile Apps** — React Native (iOS & Android)
-* **REST API** design and integration with Python backends
-* **Data Analytics** — Python, Pandas, NumPy, Matplotlib, statistical modeling
-* **Cybersecurity** — SIEM tools, IDS, threat detection, Linux hardening (Google cert)
+* **RAG Pipelines & LLM Agents** — LangChain, LangGraph, FAISS, prompt engineering, source-cited retrieval
+* **Full-Stack Web Apps** — React + FastAPI/Express + PostgreSQL + JWT auth, deployed to production
+* **REST API Design** — role-based access control, rate limiting, Swagger/OpenAPI documentation, 80%+ test coverage
+* **Computer Vision** — CNNs, transfer learning, model explainability (Grad-CAM)
+* **Mobile Development** — React Native fundamentals
+* **CI/CD & Deployment** — GitHub Actions, Docker, production monitoring
+* **Cybersecurity fundamentals** — currently building toward this via TryHackMe, OverTheWire, and PortSwigger
 * Harvard's **CS50** series — CS50x, CS50P, CS50AI, CS50 SQL, CS50R
-
-
-
-
-
 
 ---
 
-📧 **[itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/itsaahsan/)** · 🌐 **[Portfolio](#)**
+📧 **[itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/itsaahsan/)** · 🌐 **[Portfolio](https://amimulahsan.com)**
 
 Always happy to discuss AI, collaborate on a project, or just talk tech!
