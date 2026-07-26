@@ -54,6 +54,41 @@ Besides tech I'm into continuous learning, solving algorithmic puzzles, and occa
 
 ---
 
-📧 **[itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/itsaahsan/)** · 🌐 **[Portfolio](https://amimulahsan.com)**
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **[Lexora](https://github.com/itsaahsan/Lexora)** | RAG pipeline processing 10K+ documents with sub-second queries, citation tracking, and confidence scoring | Python, FastAPI, FAISS, Gemini | [Live Demo](https://lexora-blond-delta.vercel.app/) |
+| **[SparkGPT](https://github.com/itsaahsan/SparkGPT)** | ReAct agent with 3 integrated tools, Groq-powered 200ms inference, full reasoning trace visibility | Python, LangChain, LangGraph, Groq | [Live Demo](https://sparkgpt-opal.vercel.app/) |
+| **[PixelMind](https://github.com/itsaahsan/PixelMind)** | Fine-tuned ResNet-50 for medical imaging — 94% accuracy, ONNX optimization, Grad-CAM explainability | Python, PyTorch, ONNX, FastAPI | [Live Demo](https://pixelmind-app.vercel.app/) |
+| **[Nexmart](https://github.com/itsaahsan/Nexmart)** | Full-stack e-commerce with AI recommendations, Redis caching, Stripe payments, 1K+ concurrent users | React, TypeScript, FastAPI, Redis | [Live Demo](https://nexmart-ecommerce-zeta.vercel.app/) |
+| **[HRConnect](https://github.com/itsaahsan/HRConnect)** | Enterprise HR system — payroll automation for 200+ employees, 80% manual work reduction | React, Node.js, Express, PostgreSQL | [Live Demo](https://hrconnect-kappa.vercel.app/) |
+| **[ContentOS](https://github.com/itsaahsan/ContentOS)** | Blog API — 10K+ posts, JWT auth, RBAC, nested comments, Swagger docs, 30min developer onboarding | Node.js, Express, PostgreSQL, JWT | [Live Demo](https://content-os-alpha-gray.vercel.app/api/docs) |
+
+---
+
+### 📜 Certifications
+
+| Institution | Certifications |
+|-------------|---------------|
+| **Harvard University** | CS50x, CS50P, CS50AI, CS50 SQL, CS50R |
+| **Google** | Cybersecurity Professional Certificate, Advanced Data Analytics Professional Certificate |
+| **IBM** | Generative AI Engineering Professional Certificate |
+| **Meta** | Front-End Developer, Back-End Developer, React Native Specialization |
+| **DeepLearning.AI** | Machine Learning Specialization, Deep Learning Specialization, PyTorch for Deep Learning, Mathematics for ML |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666)
+
+</div>
+
+---
+
+📧 **[itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/itsaahsan/)** · 🌐 **[Portfolio](https://amimulahsan.vercel.app)**
 
 Always happy to discuss AI, collaborate on a project, or just talk tech!
