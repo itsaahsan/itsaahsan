@@ -2,9 +2,7 @@
 
 # Hello there, I'm Amimul Ahsan 👋
 
-### AI Full Stack Engineer · RAG · Agents · FastAPI · React · Dhaka, Bangladesh 🇧🇩
-
-[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Software%20Engineering%20Roles-brightgreen?style=for-the-badge)](mailto:itsaahsan@gmail.com)
+### Software Engineer Specializing in AI & LLM Integration | RAG · Agents · PyTorch · LangChain · FastAPI · React · Dhaka, Bangladesh 🇧🇩
 
 </div>
 
@@ -83,16 +81,6 @@ Currently pursuing a BSc in Computer Science at University of the People (expect
 | **IBM** | Generative AI Engineering Professional Certificate |
 | **Meta** | Front-End Developer, Back-End Developer |
 | **DeepLearning.AI / Stanford (Andrew Ng)** | Machine Learning Specialization, Deep Learning Specialization, PyTorch for Deep Learning, Mathematics for ML |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666)
-
-</div>
 
 ---
 
