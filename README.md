@@ -1,193 +1,201 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,100:0d1117&height=180&section=header&text=Amimul%20Ahsan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Specializing%20in%20AI%20%26%20LLM%20Integration&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:22c55e,100:0d1117&height=200&section=header&text=Amimul%20Ahsan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Specializing%20in%20AI%20%26%20LLM%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%7C+LLM+Agents+%7C+Production+APIs;LangChain+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React;Open+to+Remote+Software+Engineering+Roles)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/itsaahsan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://amimulahsan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="mailto:itsaahsan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=itsaahsan&style=for-the-badge&color=4ade80&label=Profile+Views"/>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Roles-4ade80?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:itsaahsan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://amimulahsan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsaahsan/)
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=680&lines=Software+Engineer+Specializing+in+AI+%26+LLM+Integration;RAG+Pipelines+%C2%B7+LangGraph+Agents+%C2%B7+Production+APIs;Building+with+FastAPI+%2B+React+%2B+PostgreSQL;Currently+Open+to+Remote+Software+Engineering+Roles)](https://git.io/typing-svg)
 
 </div>
 
-## 👋 About Me
+<br/>
 
-I'm a self-taught Software Engineer specializing in **AI & LLM integration** — I build RAG pipelines, LangGraph agents, and wrap them in production-grade FastAPI + React applications. My curriculum is self-assembled from Harvard, Stanford (Andrew Ng), IBM, Google, and Meta.
+## 🧭 About Me
 
-Currently completing a BSc in Computer Science at **University of the People** (expected 2028, 4.0 GPA) while actively pursuing remote Software Engineering roles.
+> Self-taught engineer who skipped the traditional path and built my own curriculum from Harvard, Stanford, IBM, Google, and Meta — then went and shipped production apps with it.
 
-```python
-class AmimulAhsan:
-    def __init__(self):
-        self.role = "Software Engineer Specializing in AI & LLM Integration"
-        self.based_in = "Dhaka, Bangladesh"
-        self.focus = ["RAG Pipelines", "LLM Agents", "Full-Stack APIs"]
-        self.stack = ["Python", "TypeScript", "FastAPI", "React", "LangChain", "PostgreSQL"]
-        self.status = "open_to_remote_roles"
+I specialize in taking LLMs from prototype to production: designing **RAG pipelines**, building **LangGraph agents**, and wrapping them in real **FastAPI + React** applications with proper auth, testing, and deployment — not just notebooks.
 
-    def get_in_touch(self):
-        return "itsaahsan@gmail.com"
-```
-
----
-
-## 🧠 Tech Stack
+Pursuing a **BSc in Computer Science** at University of the People (expected 2028 · 4.0 GPA) alongside full-time job hunting for remote Software Engineering roles.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td>
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**AI / LLM**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**DevOps / Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Testing / Docs**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+```yaml
+name: Amimul Ahsan
+role: Software Engineer Specializing in AI & LLM Integration
+location: Dhaka, Bangladesh (GMT+6)
+focus:
+  - RAG pipelines & retrieval systems
+  - LLM agents (LangChain / LangGraph)
+  - Full-stack production APIs
+currently: Actively interviewing — remote roles
+reach_me: itsaahsan@gmail.com
+```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+## 🧠 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,tailwind,fastapi,nodejs,express,postgres,redis,docker,githubactions,git,linux&theme=dark" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td>Python · JavaScript · TypeScript · Java · C/C++ · SQL</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>React · Next.js · Tailwind CSS</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>FastAPI · Node.js · Express · PostgreSQL · Redis · SQLAlchemy</td>
+</tr>
+<tr>
+<td><b>AI / LLM</b></td>
+<td>PyTorch · LangChain · LangGraph · RAG · FAISS · Groq</td>
+</tr>
+<tr>
+<td><b>DevOps</b></td>
+<td>Docker · GitHub Actions · CI/CD · Git · Linux</td>
+</tr>
+<tr>
+<td><b>Testing / Docs</b></td>
+<td>Jest · Pytest · Swagger/OpenAPI · JWT</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### [🔍 Lexora](https://github.com/itsaahsan/Lexora)
-RAG pipeline processing 10K+ documents with sub-second queries, citation tracking, and confidence scoring.
-
-`Python` `FastAPI` `FAISS` `Gemini`
-[Live Demo →](https://lexora-blond-delta.vercel.app/)
-
+<td width="50%" valign="top">
+<h3>🔍 <a href="https://github.com/itsaahsan/Lexora">Lexora</a></h3>
+RAG pipeline processing <b>10K+ documents</b> with sub-second queries, citation tracking, and confidence scoring.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-4ade80?style=flat-square"/>
+<br/><br/>
+<a href="https://lexora-blond-delta.vercel.app/">🔗 Live Demo</a>
 </td>
-<td width="50%">
-
-### [⚡ SparkGPT](https://github.com/itsaahsan/SparkGPT)
-ReAct agent with 3 integrated tools, Groq-powered 200ms inference, full reasoning trace visibility.
-
-`LangChain` `LangGraph` `Groq`
-[Live Demo →](https://sparkgpt-opal.vercel.app/)
-
+<td width="50%" valign="top">
+<h3>⚡ <a href="https://github.com/itsaahsan/SparkGPT">SparkGPT</a></h3>
+ReAct agent with 3 integrated tools, Groq-powered <b>200ms inference</b>, full reasoning trace visibility.
+<br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<br/><br/>
+<a href="https://sparkgpt-opal.vercel.app/">🔗 Live Demo</a>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### [🩺 PixelMind](https://github.com/itsaahsan/PixelMind)
-Fine-tuned ResNet-50 for medical imaging — 94% accuracy, ONNX optimization, Grad-CAM explainability.
-
-`PyTorch` `ONNX` `FastAPI`
-[Live Demo →](https://pixelmind-app.vercel.app/)
-
+<td width="50%" valign="top">
+<h3>🩺 <a href="https://github.com/itsaahsan/PixelMind">PixelMind</a></h3>
+Fine-tuned ResNet-50 for medical imaging — <b>94% accuracy</b>, ONNX optimization, Grad-CAM explainability.
+<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<br/><br/>
+<a href="https://pixelmind-app.vercel.app/">🔗 Live Demo</a>
 </td>
-<td width="50%">
-
-### [🛒 Nexmart](https://github.com/itsaahsan/Nexmart)
-Full-stack e-commerce with product search, Stripe payments, Redis caching, 1K+ concurrent users.
-
-`React` `TypeScript` `Redis`
-[Live Demo →](https://nexmart-ecommerce-zeta.vercel.app/)
-
+<td width="50%" valign="top">
+<h3>🛒 <a href="https://github.com/itsaahsan/Nexmart">Nexmart</a></h3>
+Full-stack e-commerce with product search, Stripe payments, Redis caching, <b>1K+ concurrent users</b>.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<br/><br/>
+<a href="https://nexmart-ecommerce-zeta.vercel.app/">🔗 Live Demo</a>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### [👥 HRConnect](https://github.com/itsaahsan/HRConnect)
-Enterprise HR system — payroll automation for 200+ employees, 80% manual work reduction.
-
-`React` `Node.js` `PostgreSQL`
-[Live Demo →](https://hrconnect-kappa.vercel.app/)
-
+<td width="50%" valign="top">
+<h3>👥 <a href="https://github.com/itsaahsan/HRConnect">HRConnect</a></h3>
+Enterprise HR system — payroll automation for <b>200+ employees</b>, 80% manual work reduction.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<br/><br/>
+<a href="https://hrconnect-kappa.vercel.app/">🔗 Live Demo</a>
 </td>
-<td width="50%">
-
-### [📝 ContentOS](https://github.com/itsaahsan/ContentOS)
-Blog API — 10K+ posts, JWT auth, RBAC, nested comments, Swagger docs, 30min developer onboarding.
-
-`Express` `PostgreSQL` `JWT`
-[Live Demo →](https://contentos-e0aj.onrender.com)
-
+<td width="50%" valign="top">
+<h3>📝 <a href="https://github.com/itsaahsan/ContentOS">ContentOS</a></h3>
+Blog API — <b>10K+ posts</b>, JWT auth, RBAC, nested comments, Swagger docs, 30min onboarding.
+<br/><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<br/><br/>
+<a href="https://contentos-e0aj.onrender.com">🔗 Live Demo</a>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 ## 📜 Certifications
 
-| Institution | Certifications |
-|---|---|
-| 🎓 **Harvard University** | CS50x, CS50P, CS50AI, CS50 SQL, CS50R |
-| 🎓 **Stanford / DeepLearning.AI** | Machine Learning Specialization, Deep Learning Specialization, PyTorch for Deep Learning, Mathematics for ML |
-| 🎓 **IBM** | Generative AI Engineering Professional Certificate |
-| 🎓 **Google** | Cybersecurity Professional Certificate, Advanced Data Analytics Professional Certificate |
-| 🎓 **Meta** | Front-End Developer, Back-End Developer |
+<table>
+<tr><td>🎓</td><td><b>Harvard University</b></td><td>CS50x · CS50P · CS50AI · CS50 SQL · CS50R</td></tr>
+<tr><td>🎓</td><td><b>Stanford / DeepLearning.AI</b></td><td>Machine Learning Specialization · Deep Learning Specialization · PyTorch for Deep Learning · Mathematics for ML</td></tr>
+<tr><td>🎓</td><td><b>IBM</b></td><td>Generative AI Engineering Professional Certificate</td></tr>
+<tr><td>🎓</td><td><b>Google</b></td><td>Cybersecurity Professional Certificate · Advanced Data Analytics Professional Certificate</td></tr>
+<tr><td>🎓</td><td><b>Meta</b></td><td>Front-End Developer · Back-End Developer</td></tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=ffffff" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaahsan&theme=react-dark&hide_border=true&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff" width="90%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" height="165"/>
 </div>
 
+<div align="center">
+<img src="https://github-readme-trophy.vercel.app/?username=itsaahsan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaahsan&theme=react-dark&hide_border=true&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff" width="90%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/itsaahsan/itsaahsan/output/github-contribution-grid-snake.svg" width="90%"/>
+</div>
+
+<sub>To enable the animated snake above, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates on your real contribution graph.</sub>
+
+<br/>
+
 ---
 
 <div align="center">
 
-### 📬 Let's Connect
+### 📬 Let's Build Something
 
-📧 **[itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/itsaahsan/)** &nbsp;·&nbsp; 🌐 **[Portfolio](https://amimulahsan.vercel.app)**
+📧 **[itsaahsan@gmail.com](mailto:itsaahsan@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/itsaahsan/)** &nbsp;·&nbsp; 🌐 **[Portfolio](https://amimulahsan.vercel.app)** &nbsp;·&nbsp; 💻 **[GitHub](https://github.com/itsaahsan)**
 
-**Currently open to remote Software Engineering roles — always happy to talk AI, agents, and full-stack architecture.**
+**Currently open to remote Software Engineering roles.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4ade80&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22c55e,100:4ade80&height=120&section=footer" width="100%"/>
 
 </div>
