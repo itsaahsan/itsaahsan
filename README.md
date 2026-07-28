@@ -162,27 +162,17 @@ Blog API — <b>10K+ posts</b>, JWT auth, RBAC, nested comments, Swagger docs, 3
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaahsan&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=ffffff&count_private=true&cache_seconds=86400" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=itsaahsan&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-trophy.vercel.app/?username=itsaahsan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsaahsan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaahsan&theme=react-dark&hide_border=true&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff" width="90%"/>
 </div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/itsaahsan/itsaahsan/output/github-contribution-grid-snake.svg" width="90%"/>
-</div>
-
-<sub>To enable the animated snake above, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates on your real contribution graph.</sub>
 
 <br/>
 
