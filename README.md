@@ -1,76 +1,41 @@
 ### ~ Hello there! I'm Amimul Ahsan ~
 
-I'm a self-taught software engineer based in Dhaka, Bangladesh. No CS degree at the start of this journey — just a lot of late nights with Harvard's CS50, Andrew Ng's ML courses, and whatever IBM/Google/Meta certificate looked interesting that week. I'm currently finishing a BSc in Computer Science through University of the People, mostly to make the "self-taught" story easier to explain in interviews.
-
-Most of my time lately goes into AI/LLM integration — RAG pipelines, LangGraph agents, that kind of thing — wrapped in actual production apps instead of just notebooks that never leave my laptop. Currently job hunting for remote Software Engineering roles, so if you're reading this and hiring, my inbox is open.
-
-Outside of tech I like reading about how neural nets actually work under the hood, poking at cybersecurity challenges on the side (TryHackMe, OverTheWire — still very much learning), and occasionally falling down a rabbit hole I didn't plan on.
-
-**Quick facts:** Dhaka, Bangladesh (GMT+6) · BSc CS @ University of the People (2028) · 4.0 GPA · Open to remote roles
-
----
+I'm self-taught in software engineering and spend most of my time building things that take way longer than they should — like a RAG pipeline that took a week to save myself ten minutes of manual document search. As of 2026 I'm actively interviewing for remote Software Engineering roles, but if you're reading this later, take that with a grain of timestamp. I'm finishing my undergrad in **Computer Science** through [University of the People](https://www.uopeople.edu/), 4.0 GPA so far. Besides tech I'm into reading about how neural nets work under the hood, poking at [TryHackMe](https://tryhackme.com/) boxes on the side, and the occasional rabbit hole I didn't plan on falling into.
 
 #### 🧑‍💻 My Tech!
 
-**Languages** — python typescript javascript java c/c++ sql
+I've mostly worked on AI-integrated full-stack projects — RAG pipelines, LLM agents, and the FastAPI/React apps that wrap around them. Along the way I ended up spending the most time in these ~
 
-**Frontend** — react nextjs tailwind
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Backend** — fastapi nodejs express postgres redis sqlalchemy
+#### 🌱 Cool things that I explored in the past ~
 
-**AI / LLM** — langchain langgraph pytorch rag faiss groq
-
-**DevOps** — docker github-actions git linux
-
-**Testing / docs** — jest pytest swagger jwt
-
----
-
-#### 🌱 Things I've built and explored ~
-
-**RAG & Agents**
-- RAG pipeline over 10K+ documents with citation tracking and confidence scoring, using FAISS for retrieval
-- ReAct-style LLM agent with tool calling and full reasoning-trace visibility, built on LangChain / LangGraph, running on Groq for ~200ms inference
-
-**Full-stack**
-- React/Next.js frontends on FastAPI or Express backends, with real auth (JWT) instead of "trust me it's secure"
-- REST APIs with proper Swagger docs, rate limiting, and actual test coverage (Jest, Pytest)
-- E-commerce build with Stripe payments and Redis caching, load-tested to 1K+ concurrent users
-- HR system automating payroll for 200+ employees — cut manual work by ~80%
-
-**ML**
-- Fine-tuned a ResNet-50 for medical image classification (94% accuracy), exported to ONNX, with Grad-CAM so it's not a total black box
-
-**Ops**
-- CI/CD with GitHub Actions and Docker, because manually deploying gets old fast
-
-**Learning**
-- Harvard's CS50 series — CS50x, CS50P, CS50AI, CS50 SQL, CS50R
-- Andrew Ng's Machine Learning & Deep Learning Specializations
-- IBM's Generative AI Engineering Professional Certificate
+- RAG pipelines with citation tracking, using [FAISS](https://github.com/facebookresearch/faiss) for retrieval over 10K+ documents!
+- ReAct-style LLM agents with tool calling, built on [LangChain](https://www.langchain.com/) and [LangGraph](https://www.langchain.com/langgraph), running inference on [Groq](https://groq.com/)!
+- Backends based on [FastAPI](https://fastapi.tiangolo.com/) (Python) and [Express.js](https://expressjs.com/) (Node.js) frameworks!
+- Auth and access control with [JWT](https://jwt.io/) and role-based permissions!
+- API docs and contracts with [Swagger/OpenAPI](https://swagger.io/)!
+- Payment gateway integration using [Stripe](https://stripe.com/)!
+- Caching and rate limiting with [Redis](https://redis.io/)!
+- Computer Vision (medical image classification) with [PyTorch](https://pytorch.org/), exported to [ONNX](https://onnx.ai/), explainability via Grad-CAM!
+- CI/CD pipelines with [GitHub Actions](https://github.com/features/actions) and [Docker](https://www.docker.com/)!
+- Andrew Ng's amazing [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) and [Deep Learning](https://www.coursera.org/specializations/deep-learning) Specializations!
+- Harvard's [CS50](https://cs50.harvard.edu/) series — CS50x, CS50P, CS50AI, CS50 SQL, CS50R!
 
 ---
 
-#### 📂 A few things I'd point you to first
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Lexora](https://github.com/itsaahsan/Lexora) | RAG pipeline, 10K+ docs, sub-second queries | Python, FastAPI, FAISS |
-| [SparkGPT](https://github.com/itsaahsan/SparkGPT) | ReAct agent, 200ms inference on Groq | LangChain, LangGraph |
-| [PixelMind](https://github.com/itsaahsan/PixelMind) | Medical imaging classifier, 94% accuracy | PyTorch, ONNX |
-| [Nexmart](https://github.com/itsaahsan/Nexmart) | E-commerce, Stripe + Redis, 1K+ concurrent users | React, TypeScript |
-| [ContentOS](https://github.com/itsaahsan/ContentOS) | Blog API, JWT + RBAC, full Swagger docs | Express, PostgreSQL |
-
-*(Full list, live demos, and code walkthroughs are pinned above / in my repos.)*
-
----
-
-#### 📊 GitHub stats
-
-![Amimul's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsaahsan&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400)
-
-<sub>If this card doesn't load for you, it's a known rate-limit quirk on the free shared instance — not your connection.</sub>
-
----
-
-I'm available via 📫 [email](mailto:itsaahsan@gmail.com) or 💼 [LinkedIn](https://www.linkedin.com/in/itsaahsan/). Always happy to talk AI, agents, or just trade war stories about debugging something at 2am.
+I'm available via 📫 [email](mailto:itsaahsan@gmail.com) (or if you're tired of professionalism there's 💬 [LinkedIn](https://www.linkedin.com/in/itsaahsan/)). Feel free to hit me up if you feel like discussing new ideas, collaborating, or grabbing a virtual cup of coffee!
