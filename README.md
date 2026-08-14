@@ -9,7 +9,7 @@ search. As of 2026 I'm actively
 interviewing for remote AI Engineer and
 Software Engineering roles, but if you're
 reading this later, take that with a grain
-of timestamp. I'm finishing my undergrad
+of timestamp. I'm pursuing my undergrad
 in **Computer Science** through
 [University of the People](https://www.uopeople.edu/),
 4.0 GPA so far. Besides tech I'm into
@@ -33,7 +33,6 @@ in these ~
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
